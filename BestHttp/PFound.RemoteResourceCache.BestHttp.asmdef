@@ -1,0 +1,20 @@
+{
+    "name": "PFound.RemoteResourceCache.BestHttp",
+    "rootNamespace": "PFound.RemoteResourceCache.Transport",
+    "references": [
+        "PFound.RemoteResourceCache.Core",
+        "PFound.RemoteResourceCache",
+        "BestHTTP"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "PFOUND_BESTHTTP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

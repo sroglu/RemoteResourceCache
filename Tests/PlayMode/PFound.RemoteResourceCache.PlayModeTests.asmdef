@@ -1,0 +1,23 @@
+{
+    "name": "PFound.RemoteResourceCache.PlayModeTests",
+    "rootNamespace": "PFound.RemoteResourceCache.Tests",
+    "references": [
+        "PFound.RemoteResourceCache",
+        "PFound.RemoteResourceCache.Core",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

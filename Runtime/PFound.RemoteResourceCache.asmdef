@@ -1,0 +1,16 @@
+{
+    "name": "PFound.RemoteResourceCache",
+    "rootNamespace": "PFound.RemoteResourceCache",
+    "references": [
+        "PFound.RemoteResourceCache.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
