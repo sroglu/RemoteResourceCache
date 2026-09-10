@@ -318,4 +318,3 @@ BestHTTP — the optional adapter reaches in, not the reverse.
 - **`XxHash3` is for filename derivation, not integrity** — fast, non-cryptographic.
 - **Bytes-based memory bounding needs a `ResourceSizer<T>`.** Omit it and the memory tier is bounded
   by entry count only (every entry sizes to 0).
-</content>

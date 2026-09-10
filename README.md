@@ -39,4 +39,3 @@ Core is dependency-free engine-free C#; the optional BestHTTP transport is gated
 ## Docs
 
 Deep reference: [MODULE.md](MODULE.md).
-</content>
